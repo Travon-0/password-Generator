@@ -1,4 +1,4 @@
 # password-Generator
-A aimle script to generate random password for  you being unique all the time
+A simple script to generate random password for  you being unique all the time
 
 
